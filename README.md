@@ -1,4 +1,4 @@
-## I am currently on the job market!
+# [I am currently on the job market!](https://rabeabdalkareem.github.io/publications/)
 
 Rabe Abdalkareem is a postdoctoral research fellow in the Software Analysis and Intelligence Lab (SAIL) at Queen’s University, Canada, where he works under the supervision of Prof. Ahmed E. Hassan.
 
